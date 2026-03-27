@@ -1,0 +1,16 @@
+{
+  "name": "smart-grid.bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot_smart_grid.js",
+  "scripts": {
+    "start": "node bot_smart_grid.js"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^4.8.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.8.0",
+    "sha256-validation": "^1.2.6"
+  }
+}
