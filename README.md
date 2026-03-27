@@ -9,11 +9,11 @@
 ## Proof of Results
 
 <p align="center">
-  <img src="proof2.png" alt="Polymarket Bot Profit $1,720,273.80 All-Time" width="480"/>
+  <img src="img_profit.png" alt="Polymarket Bot Profit $1,720,273.80 All-Time" width="480"/>
 </p>
 
 <p align="center">
-  <img src="proof1.png" alt="Polymarket Trading Bot - $23.6K Biggest Win" width="480"/>
+  <img src="img_stats.png" alt="Polymarket Trading Bot - $23.6K Biggest Win" width="480"/>
 </p>
 
 ---
